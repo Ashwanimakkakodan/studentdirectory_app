@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630635158695",
+    "project_id": "studentloginbackend-15b3c",
+    "storage_bucket": "studentloginbackend-15b3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630635158695:android:81fe82798016a947478f82",
+        "android_client_info": {
+          "package_name": "com.example.studentdirectory_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOlnVIhDL-MDVCktrDEkauPCaEtLmQ3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
