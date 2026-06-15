@@ -3,7 +3,7 @@ import 'package:lottie/lottie.dart';
 import 'package:studentdirectory_app/home.dart';
 
 class Student extends StatelessWidget {
-  Student({super.key});
+  const Student({super.key});
 
   @override
   Widget build(BuildContext context) {
